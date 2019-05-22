@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aitooquae.robertelwell.info/sitemap.xml
